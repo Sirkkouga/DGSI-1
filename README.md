@@ -1,1 +1,4 @@
-# DGSI-1
+# DGSI-1 
+Mini-hackathon clase 1
+
+## Autores:
